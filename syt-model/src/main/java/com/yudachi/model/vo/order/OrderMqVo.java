@@ -1,6 +1,6 @@
 package com.yudachi.model.vo.order;
 
-import com.atguigu.yygh.vo.msm.MsmVo;
+import com.yudachi.model.vo.msm.MsmVo;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
